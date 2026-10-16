@@ -1,17 +1,17 @@
-# Bouncer
+# SloppyAI
 
 <p align="center">
-  <img src="Bouncer/icons/icon128.png" alt="Bouncer" width="128" />
+  <img src="SloppyAI/icons/icon128.png" alt="SloppyAI" width="128" />
 </p>
 
-**Heal your feed.** Bouncer is a browser extension that uses AI to filter unwanted posts from your Twitter/X feed. Define filter topics in plain language — "crypto", "engagement bait", "rage politics" — and Bouncer classifies and hides matching posts in real time.
+**Heal your feed.** SloppyAI is a browser extension that uses AI to filter unwanted posts from your Twitter/X feed. Define filter topics in plain language — "crypto", "engagement bait", "rage politics" — and SloppyAI classifies and hides matching posts in real time.
 
 [**Install from the Chrome Web Store**](https://chromewebstore.google.com/detail/bouncer-heal-your-feed-on/bkijmhafoocfloemhancbgadknkgdkcm)
 
 [**Install on iOS**](https://apps.apple.com/us/app/bouncer-heal-your-feed/id6759466393)
 
 <p align="center">
-  <img src="appstore_assets/demo.gif" alt="Bouncer demo" />
+  <img src="appstore_assets/demo.gif" alt="SloppyAI demo" />
 </p>
 
 ## Features
@@ -40,21 +40,21 @@ Local models are downloaded once and cached in the browser's Cache Storage.
 
 ### Chrome / Edge (Web Store)
 
-[**Install Bouncer**](https://chromewebstore.google.com/detail/bouncer-heal-your-feed-on/bkijmhafoocfloemhancbgadknkgdkcm) from the Chrome Web Store.
+[**Install SloppyAI**](https://chromewebstore.google.com/detail/bouncer-heal-your-feed-on/bkijmhafoocfloemhancbgadknkgdkcm) from the Chrome Web Store.
 
 ### Chrome / Edge (from source)
 
 ```bash
-cd Bouncer
+cd SloppyAI
 npm install
 npm run build
 ```
 
 1. Open `chrome://extensions`
 2. Enable **Developer mode**
-3. Click **Load unpacked** and select the `Bouncer/` folder
+3. Click **Load unpacked** and select the `SloppyAI/` folder
 4. Navigate to twitter.com / x.com
-5. Click "Settings" in the Bouncer element and add your preferred provider API key (or enable local models) and select your preferred model from the dropdown.
+5. Click "Settings" in the SloppyAI element and add your preferred provider API key (or enable local models) and select your preferred model from the dropdown.
 
 ### iOS
 
