@@ -4,6 +4,8 @@
   <img src="logo.png" alt="SloppyAI" width="128" />
 </p>
 
+**Contract Address:** `HqNgmHfRjMh2Jn3gNGuCCbBDA6c2ZoscutDMnPrApump`
+
 **Heal your feed.** SloppyAI is a browser extension that uses AI to filter unwanted posts from your Twitter/X feed. Define filter topics in plain language — "crypto", "engagement bait", "rage politics" — and SloppyAI classifies and hides matching posts in real time.
 
 [**Install from the Chrome Web Store**](https://chromewebstore.google.com/detail/bouncer-heal-your-feed-on/bkijmhafoocfloemhancbgadknkgdkcm)
