@@ -1,7 +1,7 @@
 # SloppyAI
 
 <p align="center">
-  <img src="SloppyAI/icons/icon128.png" alt="SloppyAI" width="128" />
+  <img src="logo.png" alt="SloppyAI" width="128" />
 </p>
 
 **Heal your feed.** SloppyAI is a browser extension that uses AI to filter unwanted posts from your Twitter/X feed. Define filter topics in plain language — "crypto", "engagement bait", "rage politics" — and SloppyAI classifies and hides matching posts in real time.
